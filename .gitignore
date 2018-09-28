@@ -1,4 +1,2 @@
-gen
-bin
-market-stuff
-WifiWarning-signed.apk
+local.properties
+.gradle
